@@ -1,2 +1,2 @@
 # DeepLearning
-Deep Learning code written in Python
+Deep Learning implemented using Python & Tensorflow
