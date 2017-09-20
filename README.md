@@ -8,3 +8,5 @@ Different Neural Net Architectures are used in different projects:
 **Sentiment\_Analysis:** plain Neural Network.
 
 **Image\_Classification:** Convolutional Neural Network.
+
+**GAN\_Face\_Generation:** Generative Adversarial Network.
