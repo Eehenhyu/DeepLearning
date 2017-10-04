@@ -10,3 +10,5 @@ Different Neural Net Architectures are used in different projects:
 **Image\_Classification:** Convolutional Neural Network.
 
 **GAN\_Face\_Generation:** Generative Adversarial Network.
+
+**Language\_Translation:** Recurrent Neural Netowork.
